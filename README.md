@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dedus!
+# 👋 Hello, I'm Fowin!
 
 I'm a versatile software developer with expertise in **Java**, **Python**, **C++**, and **Go**, passionate about creating high-quality applications, mods, plugins, and bots. My projects span game development, backend systems, game cheats, GUI applications, and automation tools.
 
