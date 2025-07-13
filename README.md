@@ -27,17 +27,35 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <img src="https://img.shields.io/badge/Spigot-FF6200?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spigot">
 <img src="https://img.shields.io/badge/JNI-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JNI">
 
-- **Game Development**:
-  - Minecraft **Forge** and **Fabric** mods
-  - Minecraft **Spigot** plugins
-  - C++ game cheats with **JNI** for performance optimization
-- **Bot Development**:
-  - Telegram bots using **aiogram** (Python)
-- **GUI Applications**:
-  - Cross-platform desktop apps with **Qt** and **PySide6**
-- **Backend Development**:
-  - Web backends with **Java Spring** and **Go Gin**
-  - Building scalable and robust APIs
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>Minecraft <b>Forge</b> and <b>Fabric</b> mods</li>
+    <li>Minecraft <b>Spigot</b> plugins</li>
+    <li>C++ game cheats with <b>JNI</b> for performance optimization</li>
+  </ul>
+</div>
+
+### Bot Development
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>Telegram bots using <b>aiogram</b> (Python)</li>
+  </ul>
+</div>
+
+### GUI Applications
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>Cross-platform desktop apps with <b>Qt</b> and <b>PySide6</b></li>
+  </ul>
+</div>
+
+### Backend Development
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>Web backends with <b>Java Spring</b> and <b>Go Gin</b></li>
+    <li>Building scalable and robust APIs</li>
+  </ul>
+</div>
 
 ---
 
@@ -69,16 +87,20 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ---
 
 ## 🚀 What I'm Working On
-- Developing innovative **Minecraft mods** and **plugins**
-- Creating intelligent **Telegram bots** for automation
-- Building modern **GUI applications** with Qt/PySide6
-- Crafting efficient and secure **backend systems** with Java Spring and Go Gin
-- Designing **frontend websites** with modern frameworks like React and Tailwind CSS
-- Implementing **code obfuscation** and **protection mechanisms** for secure software deployment
-- Exploring **reverse engineering** and **security auditing** for game and application development
-- Building **automation scripts** and **CLI tools** for streamlined workflows
-- Developing **cross-platform mobile apps** with frameworks like Flutter
-- Optimizing **performance-critical systems** using C++ and JNI
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+    <li>Developing innovative <b>Minecraft mods</b> and <b>plugins</b></li>
+    <li>Creating intelligent <b>Telegram bots</b> for automation</li>
+    <li>Building modern <b>GUI applications</b> with Qt/PySide6</li>
+    <li>Crafting efficient and secure <b>backend systems</b> with Java Spring and Go Gin</li>
+    <li>Designing <b>frontend websites</b> with modern frameworks like React and Tailwind CSS</li>
+    <li>Implementing <b>code obfuscation</b> and <b>protection mechanisms</b> for secure software deployment</li>
+    <li>Exploring <b>reverse engineering</b> and <b>security auditing</b> for game and application development</li>
+    <li>Building <b>automation scripts</b> and <b>CLI tools</b> for streamlined workflows</li>
+    <li>Developing <b>cross-platform mobile apps</b> with frameworks like Flutter</li>
+    <li>Optimizing <b>performance-critical systems</b> using C++ and JNI</li>
+  </ul>
+</div>
 
 ---
 
