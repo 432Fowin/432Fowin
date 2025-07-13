@@ -20,6 +20,10 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PySide6">
 <img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram">
+<img src="https://img.shields.io/badge/Grammy-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Grammy">
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+<img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Swing">
+<img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
 
 ### Game Development
 <img src="https://img.shields.io/badge/Forge-FF6200?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge">
@@ -28,32 +32,38 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <img src="https://img.shields.io/badge/JNI-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JNI">
 
 <div style="display: flex; justify-content: center;">
-  <ul style="text-align: left; margin: 0 auto; padding: 0;">
-    <li>Minecraft <b>Forge</b> and <b>Fabric</b> mods</li>
-    <li>Minecraft <b>Spigot</b> plugins</li>
-    <li>C++ game cheats with <b>JNI</b> for performance optimization</li>
+  <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
+    <li>✨ Minecraft <b>Forge</b> and <b>Fabric</b> mods (Java)</li>
+    <li>✨ Minecraft <b>Spigot</b> plugins (Java)</li>
+    <li>✨ C++ game cheats with <b>JNI</b> (C++ and Java) for performance optimization</li>
   </ul>
 </div>
 
 ### Bot Development
 <div style="display: flex; justify-content: center;">
-  <ul style="text-align: left; margin: 0 auto; padding: 0;">
-    <li>Telegram bots using <b>aiogram</b> (Python)</li>
+  <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
+    <li>✨ Telegram bots using <b>aiogram</b> (Python)</li>
+    <li>✨ Telegram bots using <b>Grammy</b> (JavaScript)</li>
   </ul>
 </div>
 
 ### GUI Applications
 <div style="display: flex; justify-content: center;">
-  <ul style="text-align: left; margin: 0 auto; padding: 0;">
-    <li>Cross-platform desktop apps with <b>Qt</b> and <b>PySide6</b></li>
+  <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
+    <li>✨ Cross-platform desktop apps with <b>Qt</b> (C++)</li>
+    <li>✨ Cross-platform desktop apps with <b>PySide6</b> (Python)</li>
+    <li>✨ Desktop apps with <b>Tkinter</b> (Python)</li>
+    <li>✨ Desktop apps with <b>Swing</b> (Java)</li>
+    <li>✨ Desktop apps with <b>JavaFX</b> (Java)</li>
   </ul>
 </div>
 
 ### Backend Development
 <div style="display: flex; justify-content: center;">
-  <ul style="text-align: left; margin: 0 auto; padding: 0;">
-    <li>Web backends with <b>Java Spring</b> and <b>Go Gin</b></li>
-    <li>Building scalable and robust APIs</li>
+  <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
+    <li>✨ Web backends with <b>Java Spring</b> (Java)</li>
+    <li>✨ Web backends with <b>Go Gin</b> (Go)</li>
+    <li>✨ Building scalable and robust APIs</li>
   </ul>
 </div>
 
@@ -70,7 +80,7 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=432Fowin&theme=dark" alt="GitHub Streak" width="400">
 
 ### Repository Stars & Activity
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=432Fowin&repo=your-top-repo&theme=dark" alt="Top Repo" width="400">
+*Replace `your-top-repo` with a specific repository name to showcase it here!*
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=432Fowin&theme=dracula" alt="Contribution Graph" width="600">
 
 ### Daily Activity
@@ -90,17 +100,17 @@ I'm a versatile software developer passionate about crafting high-quality applic
 
 ## 🚀 What I'm Working On
 <div style="display: flex; justify-content: center;">
-  <ul style="text-align: left; margin: 0 auto; padding: 0;">
-    <li>Developing innovative <b>Minecraft mods</b> and <b>plugins</b></li>
-    <li>Creating intelligent <b>Telegram bots</b> for automation</li>
-    <li>Building modern <b>GUI applications</b> with Qt/PySide6</li>
-    <li>Crafting efficient and secure <b>backend systems</b> with Java Spring and Go Gin</li>
-    <li>Designing <b>frontend websites</b> with modern frameworks like React and Tailwind CSS</li>
-    <li>Implementing <b>code obfuscation</b> and <b>protection mechanisms</b> for secure software deployment</li>
-    <li>Exploring <b>reverse engineering</b> and <b>security auditing</b> for game and application development</li>
-    <li>Building <b>automation scripts</b> and <b>CLI tools</b> for streamlined workflows</li>
-    <li>Developing <b>cross-platform mobile apps</b> with frameworks like Flutter</li>
-    <li>Optimizing <b>performance-critical systems</b> using C++ and JNI</li>
+  <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
+    <li>✨ Developing innovative <b>Minecraft mods</b> and <b>plugins</b> (Java)</li>
+    <li>✨ Creating intelligent <b>Telegram bots</b> for automation (Python, JavaScript)</li>
+    <li>✨ Building modern <b>GUI applications</b> with Qt (C++), PySide6 (Python), Tkinter (Python), Swing (Java), and JavaFX (Java)</li>
+    <li>✨ Crafting efficient and secure <b>backend systems</b> with Java Spring (Java) and Go Gin (Go)</li>
+    <li>✨ Designing <b>frontend websites</b> with modern frameworks like React and Tailwind CSS (JavaScript)</li>
+    <li>✨ Implementing <b>code obfuscation</b> and <b>protection mechanisms</b> for secure software deployment (C++, Java)</li>
+    <li>✨ Exploring <b>reverse engineering</b> and <b>security auditing</b> for game and application development (C++, Python)</li>
+    <li>✨ Building <b>automation scripts</b> and <b>CLI tools</b> for streamlined workflows (Python, Go)</li>
+    <li>✨ Developing <b>cross-platform mobile apps</b> with frameworks like Flutter (Dart)</li>
+    <li>✨ Optimizing <b>performance-critical systems</b> using C++ and JNI (C++, Java)</li>
   </ul>
 </div>
 
