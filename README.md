@@ -36,9 +36,9 @@ I'm a versatile software developer with expertise in **Java**, **Python**, **C++
   - Building scalable and robust APIs
 
 ## 📊 GitHub Stats
-![Dedus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dedus&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedus&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dedus&theme=dark)
+![Dedus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=432Fowin&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=432Fowin&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=432Fowin&theme=dark)
 
 ## 📫 Get in Touch
 ![Discord](https://img.shields.io/badge/Discord-jar2dll-7289DA?style=for-the-badge&logo=discord&logoColor=white)
