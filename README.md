@@ -27,8 +27,8 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <img src="https://img.shields.io/badge/Spigot-FF6200?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spigot">
 <img src="https://img.shields.io/badge/JNI-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JNI">
 
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <ul style="text-align: left; margin: 0 auto; padding: 0;">
     <li>Minecraft <b>Forge</b> and <b>Fabric</b> mods</li>
     <li>Minecraft <b>Spigot</b> plugins</li>
     <li>C++ game cheats with <b>JNI</b> for performance optimization</li>
@@ -36,22 +36,22 @@ I'm a versatile software developer passionate about crafting high-quality applic
 </div>
 
 ### Bot Development
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <ul style="text-align: left; margin: 0 auto; padding: 0;">
     <li>Telegram bots using <b>aiogram</b> (Python)</li>
   </ul>
 </div>
 
 ### GUI Applications
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <ul style="text-align: left; margin: 0 auto; padding: 0;">
     <li>Cross-platform desktop apps with <b>Qt</b> and <b>PySide6</b></li>
   </ul>
 </div>
 
 ### Backend Development
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <ul style="text-align: left; margin: 0 auto; padding: 0;">
     <li>Web backends with <b>Java Spring</b> and <b>Go Gin</b></li>
     <li>Building scalable and robust APIs</li>
   </ul>
@@ -62,6 +62,8 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=432Fowin&show_icons=true&theme=dark" alt="Fowin's GitHub Stats" width="400">
+
+### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=432Fowin&layout=compact&theme=dark" alt="Top Languages" width="400">
 
 ### Contribution Activity
@@ -87,8 +89,8 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ---
 
 ## 🚀 What I'm Working On
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <ul style="text-align: left; margin: 0 auto; padding: 0;">
     <li>Developing innovative <b>Minecraft mods</b> and <b>plugins</b></li>
     <li>Creating intelligent <b>Telegram bots</b> for automation</li>
     <li>Building modern <b>GUI applications</b> with Qt/PySide6</li>
