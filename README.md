@@ -17,7 +17,7 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ### Technologies & Frameworks
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor white" alt="Qt">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
 <img src="https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PySide6">
 <img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram">
 <img src="https://img.shields.io/badge/Grammy-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Grammy">
