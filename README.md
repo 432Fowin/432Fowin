@@ -17,13 +17,14 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ### Technologies & Frameworks
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin">
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor white" alt="Qt">
 <img src="https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PySide6">
 <img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram">
 <img src="https://img.shields.io/badge/Grammy-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Grammy">
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
 <img src="https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Swing">
 <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX">
+<img src="https://img.shields.io/badge/TelegramBots-ED8B00?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramBots">
 
 ### Game Development
 <img src="https://img.shields.io/badge/Forge-FF6200?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge">
@@ -44,6 +45,7 @@ I'm a versatile software developer passionate about crafting high-quality applic
   <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
     <li>✨ Telegram bots using <b>aiogram</b> (Python)</li>
     <li>✨ Telegram bots using <b>Grammy</b> (JavaScript)</li>
+    <li>✨ Telegram bots using <b>TelegramBots</b> by Rubenlagus (Java)</li>
   </ul>
 </div>
 
@@ -79,12 +81,8 @@ I'm a versatile software developer passionate about crafting high-quality applic
 ### Contribution Activity
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=432Fowin&theme=dark" alt="GitHub Streak" width="400">
 
-### Repository Stars & Activity
-*Replace `your-top-repo` with a specific repository name to showcase it here!*
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=432Fowin&theme=dracula" alt="Contribution Graph" width="600">
-
 ### Daily Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=432Fowin&theme=dracula" alt="Profile Details" width="600">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=432Fowin&theme=dark" alt="Profile Details" width="600">
 
 ---
 
@@ -102,7 +100,7 @@ I'm a versatile software developer passionate about crafting high-quality applic
 <div style="display: flex; justify-content: center;">
   <ul style="text-align: left; margin: 0 auto; padding: 0; list-style: none;">
     <li>✨ Developing innovative <b>Minecraft mods</b> and <b>plugins</b> (Java)</li>
-    <li>✨ Creating intelligent <b>Telegram bots</b> for automation (Python, JavaScript)</li>
+    <li>✨ Creating intelligent <b>Telegram bots</b> for automation (Python, JavaScript, Java)</li>
     <li>✨ Building modern <b>GUI applications</b> with Qt (C++), PySide6 (Python), Tkinter (Python), Swing (Java), and JavaFX (Java)</li>
     <li>✨ Crafting efficient and secure <b>backend systems</b> with Java Spring (Java) and Go Gin (Go)</li>
     <li>✨ Designing <b>frontend websites</b> with modern frameworks like React and Tailwind CSS (JavaScript)</li>
